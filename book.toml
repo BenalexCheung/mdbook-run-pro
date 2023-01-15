@@ -1,9 +1,0 @@
-[book]
-authors = ["sgoudham"]
-language = "en"
-multilingual = false
-src = "src"
-title = "ReadMe Example"
-
-# Enables the `mdbook-template` preprocessor
-[preprocessor.template]
