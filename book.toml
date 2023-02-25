@@ -1,9 +1,9 @@
 [book]
-authors = ["sgoudham"]
-language = "en"
+authors = ["ben"]
+language = "zh"
 multilingual = false
 src = "src"
-title = "ReadMe Example"
+title = "Web3开发入门指南"
 
 # Enables the `mdbook-template` preprocessor
 [preprocessor.template]
